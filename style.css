@@ -1,0 +1,82 @@
+    
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    header{
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    body{
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    .lista-cabeçalho {
+        display: flex;
+        font-size: 64px;
+        list-style: none;
+        border: 15%;
+        justify-content: space-around;
+        color: #DC7092;
+    }
+    .img-cabeçalho {
+        width: 128px;
+    }
+     .letramsd{
+        margin: 35px;
+        }
+    .img-frida{
+        width: 380px;
+        height: 470px;
+        padding: 4%;
+        border-radius: 34px;
+
+    }
+
+    .frida{
+        display: flex;
+    }
+    .texto1{
+        font-size: 32px;
+        font: arial;
+    }
+    .titulo-frida{
+            font-size: 48px;
+            padding: 34px;
+            font: arial;
+        }
+    .diadamulher{
+        text-align: center;
+    }
+    .titulo-dml{
+        font-size: 55px;
+    }
+        .txt2{
+            font-size: 35px;
+            padding-left: 35px;
+        }
+ .titulo-dml{
+                font-size: 35px;
+                padding: 54px;
+                border: 32px;
+            }
+.imgrosa{
+    width: 126px;
+    padding: 45px 45px;
+
+    
+}
+
+footer{
+    background-color: #DC7092;
+    justify-content: space-around;
+    border: 0%;
+    padding: 15px;
+}
+
+.rodape{
+    text-align: center;
+}
+.frida1{
+    text-align: center;
+    padding: 78px;
+}
